@@ -68,6 +68,6 @@ ELMO是一个结合双向语言模型表示层的语言模型，对于每个词�
 代码参考：<br>
 https://github.com/huseinzol05/NLP-Models-Tensorflow/tree/master/embedded<br>
 详细内容请参考我的博客:<br>
-https://blog.csdn.net/u011213419/article/details/97491049
+https://blog.csdn.net/u011213419/article/details/97491049<br>
 论文链接:<br>
 https://arxiv.org/pdf/1802.05365.pdf
